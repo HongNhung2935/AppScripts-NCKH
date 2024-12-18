@@ -6,3 +6,4 @@ Member:
 - Vũ Nguyễn Việt Phương
 
 Link demo: [link][https://github.com/HongNhung2935/AppScripts-NCKH]
+each member should create a new branch with the rule: development-functionName
